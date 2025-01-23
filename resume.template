@@ -95,7 +95,7 @@
           {{#awardsBool}}
           <!-- AWARDS -->
           <div class="box">
-            <h2><i class="fas fa-certificate ico"></i> Auszeichnungen</h2>
+            <h2><i class="fas fa-certificate ico"></i> Stipendien und Auszeichnungen</h2>
             <ul id="awards" class="clearfix">
               {{#awards}}
               <li>

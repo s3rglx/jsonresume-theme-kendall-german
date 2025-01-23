@@ -115,7 +115,7 @@ function render(resumeObject) {
                 w.endDateYear = (w.endDate || "").substr(0,4);
                 w.endDateMonth = getMonth(w.endDate || "");
             } else {
-                w.endDateYear = 'Present'
+                w.endDateYear = 'Heute'
             }
             if (w.highlights) {
                 if (w.highlights[0]) {
@@ -139,7 +139,7 @@ function render(resumeObject) {
 //                w.endDateYear = (w.endDate || "").substr(0,4);
 //                w.endDateMonth = getMonth(w.endDate || "");
 //            } else {
-//                w.endDateYear = 'Present'
+//                w.endDateYear = 'Heute'
 //            }
 //            if (w.highlights) {
 //                if (w.highlights[0]) {
