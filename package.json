@@ -1,12 +1,12 @@
 {
-  "name": "jsonresume-theme-kendall-german",
+  "name": "@s3rglx/jsonresume-theme-kendall-german",
   "version": "0.1.0",
-  "description": "A JSON Resume theme built with bootstrap by M. Adam Kendall. This poject is a German adapted fork of jsonresume-theme-kendall, version 0.2.0.",
+  "description": "A JSON Resume theme built with bootstrap by M. Adam Kendall. This poject is an updated fork of the forked German version 0.2.0 made by Dominik Schmid.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dominik Schmid",
+  "author": "Sergej Lopatin",
   "license": "MIT",
   "dependencies": {
     "gravatar": "^1.0.6",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/domalex/jsonresume-theme-kendall-german.git"
+    "url": "https://github.com/s3rglx/jsonresume-theme-kendall-german.git"
   },
   "keywords": [
     "json",
@@ -24,7 +24,7 @@
     "german"
   ],
   "bugs": {
-    "url": "https://github.com/domalex/jsonresume-theme-kendall-german/issues"
+    "url": "https://github.com/s3rglx/jsonresume-theme-kendall-german/issues"
   },
-  "homepage": "https://github.com/domalex/jsonresume-theme-kendall-german"
+  "homepage": "https://github.com/s3rglx/jsonresume-theme-kendall-german"
 }
